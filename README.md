@@ -26,9 +26,9 @@ Solicitar dois números como entrada e realizar uma operação matemática simpl
 - GitHub Codespaces
 
 ## 📁 Estrutura do Repositório
-📦 github-certification-algoritmos 
-┣ 📜 desafio1_concatenacao.py 
-┣ 📜 desafio2_repeticao.py 
-┣ 📜 desafio3_operacoes.py 
+📦 github-certification-algoritmos<br>
+┣ 📜 desafio1_concatenacao.py<br> 
+┣ 📜 desafio2_repeticao.py<br> 
+┣ 📜 desafio3_operacoes.py<br> 
 ┗ 📜 README.md
 
